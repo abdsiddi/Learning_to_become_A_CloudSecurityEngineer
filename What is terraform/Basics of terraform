@@ -1,0 +1,21 @@
+Terraform is basically a tool that allows Iac which stands for ( Infrastructure as code ), It allows us to define , and manage cloud
+infrastructure using code rather than the grapghical user interface.
+So basically instead of logging in to the lets say aws cloud website and then cliking buttons to create 
+servers and satabses, networks, you write a configuration file describing what you want and then terraform builds it for you.
+
+   Now i know what you aare thinking i thought the same , why the hell!!! musat i learn yet another damn language
+   why cant i just click buttons seems easier no?
+
+
+    It all comes down to saving time!, saving time building and saving time fixing, saving time auditing.
+    How you ask? Good Question Dumbass
+
+     Version Control: Ever heard about Git? it basically tracks shit : Every change is reviewed, documented, and easily reversible.  
+     you make a change dont like it? roll right back and plus since you typed it you also know what exactly you did even a month from then.
+     but on the other hand GUI, well nobody is tracking them clicks of yours. 
+     So if something breaks, have fun opening tabs.
+
+     Instant Replica: If i as your boss, cause lets face it i am ordered you to build me a cloud environment (whats in it i leave to you imagination, but imagine it being painfully complex tons ec2s and s3 and iam roles and policies blah blah blah)
+     you spend a bunch of days building it, but since you are script kiddie or in language a bitch
+
+        
