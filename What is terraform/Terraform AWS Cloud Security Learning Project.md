@@ -5,7 +5,7 @@ So after doing the above I went ahead and built one of my own.
 
 If you don't know how to build this yet, read through it and try figuring out what each block is doing.
 
-Don't immediately copy everything.
+Don't immediately copy everything, as  im sure you want  to being the little bitch you are.
 
 Try to understand what each resource is actually creating.
 
@@ -828,7 +828,7 @@ VPC
  +-- Private Subnet
 ```
 
-If you understand that diagram, you are already starting to understand how the pieces of AWS infrastructure fit together.
+If you understand that diagram, you are already starting to understand how the pieces of AWS infrastructure fit together, which has gotta be the first for you.
 
 And this is where the security part becomes interesting.
 
@@ -851,5 +851,6 @@ Those are the kinds of things you should start looking for when you move from si
 The goal isn't just to know how to deploy cloud infrastructure.
 
 The goal is to look at Terraform code and immediately start asking:
-
-"What the fuck is wrong with this configuration?"
+ 
+"What the fuck is wrong with this configuration?, were they high when they wrote this? Had i been a hacker, would have ad a field day with this "
+That is exactly what we are going to be doing next . creating something vulnerable and then using tools to find the vulnerablities.
