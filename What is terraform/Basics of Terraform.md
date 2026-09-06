@@ -44,7 +44,7 @@ The best place to begin learning it , well, it's the **creator's** own docs, Has
 
 🔗 **[developer.hashicorp.com/terraform/tutorials](https://developer.hashicorp.com/terraform/tutorials)**
 
-![HashiCorp Terraform Tutorials](./terraform-tutorials.png)
+![HashiCorp Terraform Tutorials](./images/terraform-tutorials.png)
 
 Now you'll see Azure, AWS, etc. in the beginning , just pick **one**. Don't try both. I know you think you're a smart-ass, but for once, listen to PAPA!
 
