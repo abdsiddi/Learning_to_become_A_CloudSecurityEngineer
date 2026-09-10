@@ -5,3 +5,5 @@ identifying suspicious users, following their trail, what exactly makes them sus
 Two labs for AWS and two for Azure do which ever you chose, once you follow their instructions , to find the what they eventually did , you traverse the same path as them to create a proof of concept for your final report.
 
 My lab 1 where i got the flag: 
+Bsasically we getlogs from a company that we then traverse and pinpoint different users, identify a suspicious one, then follow their actions to the point where they exfiltrated data, then we act like the attacker 
+and follow the same path as them using the companies aws iam account with same initial previliges and attempt the data exfiltration to prove the vulnerability:
