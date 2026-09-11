@@ -7,3 +7,13 @@ Two labs for AWS and two for Azure do which ever you chose, once you follow thei
 My lab 1 where i got the flag: 
 Bsasically we getlogs from a company that we then traverse and pinpoint different users, identify a suspicious one, then follow their actions to the point where they exfiltrated data, then we act like the attacker 
 and follow the same path as them using the companies aws iam account with same initial previliges and attempt the data exfiltration to prove the vulnerability:
+
+
+
+The lab 2 (This is Amazons service Macie):
+Its teaching you what the service is (data privicy and protection service), and how to enabe and use it via web interfacse(console) and cli. DONT BE A BITCH DO BOTH.
+Please dont try remebering the commands in cli just undersatding should be fine atleast thats what i did.
+
+Summary : Amazon Macie is a paid service, the pyment depends on your region and the amount of data you have could cost a few dollar or a few thousand.
+It list all your S3 buckets finds sensitive data , how it can be accesed and then you can fix that and secure it, what data it looks or doesnt look for is something you can change. (I did have an idea that if im somone
+responsible for setting up a cloud environmehnt after the final touches deploy it firts in a region in which Amazon macie and other services cost the least run it fix any issues and then redeploy in the preferred region)
