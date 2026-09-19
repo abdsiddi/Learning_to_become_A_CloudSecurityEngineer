@@ -17,3 +17,9 @@ Please dont try remebering the commands in cli just undersatding should be fine 
 Summary : Amazon Macie is a paid service, the pyment depends on your region and the amount of data you have could cost a few dollar or a few thousand.
 It list all your S3 buckets finds sensitive data , how it can be accesed and then you can fix that and secure it, what data it looks or doesnt look for is something you can change. (I did have an idea that if im somone
 responsible for setting up a cloud environmehnt after the final touches deploy it firts in a region in which Amazon macie and other services cost the least run it fix any issues and then redeploy in the preferred region)
+
+
+The third lab Identify IAM Breaches with CloudTrail and Athena
+
+Summary: This is where you are going to be learning another amazon service called Athena its bassically a powerful and fast way to query the cloud trail logs and get results quick, a useful tool to use and the
+only one i have discovered so far that would rather use in console as oppose to cli: in the lab we are trying to identify a Breached IAM account.
