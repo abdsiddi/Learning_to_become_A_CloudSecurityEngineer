@@ -15,9 +15,9 @@ My lab 1 where I got the flag:
 Basically we get logs from a company that we then traverse and pinpoint different users, identify a suspicious one, then follow their actions to the point where they exfiltrated data. Then we act like the attacker and follow the same path as them, using the company's AWS IAM account with the same initial privileges, and attempt the data exfiltration to prove the vulnerability.
 
 ![Lab 1 - step 1](/images/Screenshot2026-09-09192737.png)
-![Lab 1 - step 2](images/Screenshot 2026-09-09 192801.png)
-![Lab 1 - step 3](images/Screenshot_2026-09-09_192808.png)
-![Lab 1 - step 4](images/Screenshot_2026-09-09_192827.png)
+![Lab 1 - step 2](images/Screenshot2026-09-09192801.png)
+![Lab 1 - step 3](images/Screenshot2026-09-09192808.png)
+![Lab 1 - step 4](images/Screenshot2026-09-09192827.png)
 
 ---
 
